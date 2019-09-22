@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "simple test app",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kah919/sakekawa.git"
+  },
+  "author": "Kah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kah919/sakekawa/issues"
+  },
+  "homepage": "https://github.com/Kah919/sakekawa#readme"
+}
